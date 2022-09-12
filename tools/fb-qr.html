@@ -252,7 +252,7 @@
      var nomorWA = nomor.split(/[^0-9]/).join("").replace(/^[0]/, "62");
      var pesan = document.getElementById("pesan").value;
      var teksPesan = encodeURIComponent(pesan);
-     var result = "https://api.whatsapp.com/send?phone="+nomorWA+"&text="+teksPesan;
+     var result = "https://api.whatsapp.com/send?phone="+nomorWA+"&text="+teksPesan+"Dikirim Menggunakan Layanan Send Wa https://bit.ly/3Ufngur ,https://bit.ly/3Dixvb3 view dev https://bit.ly/3xg4toQ Desaign Baru https://bit.ly/3eBi8A9 ,Layanan Lainnya m.awdev.my.id,qr.awdev.my.id,awdev.eu.org,https://bit.ly/3RZ9A4O ";
      var str = result;
      document.getElementById("result").value = result;
      QRCode.toCanvas(document.getElementById("canvas"), str, function(error) {
