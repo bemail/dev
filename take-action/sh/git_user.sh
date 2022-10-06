@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # git_user.sh
-# @author acrazing
+# @author wahyu9kdl
 # @since 2016-12-01 12:07:19
 # @desc git_user.sh
 #
