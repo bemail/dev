@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # mac_copy.sh
-# @author acrazing
+# @author wahyu9kdl
 # @since 2016-12-06 14:32:02
 # @desc mac_copy.sh
 #
