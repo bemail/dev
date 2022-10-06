@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # readme.sh
-# @author acrazing
+# @author wahyu9kdl
 # @since 2016-11-26 20:42:52
 # @desc
 #
