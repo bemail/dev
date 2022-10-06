@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # vim_ide.sh
-# @author acrazing
+# @author wahyu9kdl
 # @since 2016-12-01 15:03:44
 # @desc vim_ide.sh
 #
