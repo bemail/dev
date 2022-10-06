@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Copyright 2018 acrazing <joking.young@gmail.com>. All rights reserved.
+# Copyright 2018 wahyu9kdl <www.awdev.eu.org>. All rights reserved.
 # @since 2018-06-07 22:51:32
 
 __intro__="use npmjs.org as registry temporary"
