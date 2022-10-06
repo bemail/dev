@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # init_file_js.sh
-# @author acrazing
+# @author wahyu9kdl
 # @since 2016-02-23 18:09:02
 # @desc
 #
