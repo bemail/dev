@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Copyright 2018 yangjunbao <yangjunbao@shimo.im>. All rights reserved.
+# Copyright 2018 wahyu9kdl <www.awdev.my.id>. All rights reserved.
 # @since 2018-11-01 22:26:32
 [ "1" = "0" ] && . ./_funcs.sh
 
