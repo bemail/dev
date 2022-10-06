@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # funcs.sh
-# @author acrazing
+# @author wahyu9kdl
 # @since 2016-11-26 19:57:49
 # @desc
 #
